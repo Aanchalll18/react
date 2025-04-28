@@ -6,7 +6,6 @@ function App() {
 
   return (
     <>
-      {/* Use min-h-screen to ensure full screen height */}
       <div className='w-full min-h-screen duration-200' style={{ backgroundColor: color }}>
         <div className='fixed flex flex-wrap justify-center bottom-12 inset-x-0 px-2'>
           <div className='flex flex-wrap justify-center gap-3 shadow-lg bg-white px-3 py-2 rounded-xl font-bold border-3 border-red-600 text-red-600 mr-4'>
