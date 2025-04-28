@@ -11,7 +11,7 @@ const Input = ({
 	amountDisable = false,
 	currencyDisable = false,
 	className = "",
-	placeholder = "Amount", // Add placeholder prop with a default value if not provided
+	placeholder = "Amount", 
 }) => {
     const amountId=useId()
 
